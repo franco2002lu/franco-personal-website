@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import { CMS_NAME, HOME_OG_IMAGE_URL } from '../lib/constants'
 
+// fixme: need to revamp this component to add my logo and website description
 const Meta = () => {
   return (
     <Head>
