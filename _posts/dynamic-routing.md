@@ -1,9 +1,9 @@
 ---
 title: 'View My Resume'
 excerpt: 'hey hey im franco i code lol write a short intro here ig'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/pictures/main-page/cover.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/pictures/main-page/cover.jpg'
 ---
 
 Hello
