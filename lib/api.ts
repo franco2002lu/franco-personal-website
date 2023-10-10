@@ -42,6 +42,6 @@ export function getAllPosts(fields: string[] = []) {
   const posts = slugs
     .map((slug) => getPostBySlug(slug, fields))
     // sort posts by priority
-    .sort((post1, post2) => (post1.priority < post2.priority ? -1 : 1))
+    .sort((post1, post2) => (Number(post1.priority) < Number(post2.priority) ? -1 : 1))
   return posts
 }

@@ -1,7 +1,7 @@
 type PostType = {
   slug: string
   title: string
-  priority: number
+  priority: string
   coverImage: string
   excerpt: string
   ogImage: {
