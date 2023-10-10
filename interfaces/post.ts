@@ -3,7 +3,6 @@ type PostType = {
   title: string
   priority: number
   coverImage: string
-  mainImage: string
   excerpt: string
   ogImage: {
     url: string
