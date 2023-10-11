@@ -8,7 +8,7 @@ const Intro = () => {
         Ji (Franco) Lu
       </h1>
       <h4 className="text-center md:text-left text-2xl mt-5 md:pl-8">
-          <HStack p={'1rem'} spacing={'2.5rem'} fontWeight={'bold'}>
+          <HStack p={'1rem'} spacing={'2rem'} fontWeight={'bold'}>
               <Link href="/posts/resume" className="hover:underline"> Resume </Link>
               <Link href="/posts/self-intro" className="hover:underline"> Intro </Link>
               <Link href="/posts/my-hobbies" className="hover:underline"> Hobbies </Link>
