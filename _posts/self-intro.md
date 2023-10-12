@@ -1,16 +1,16 @@
 ---
 title: 'Self Introduction'
 priority: '2'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Get to know a little more about me!'
 coverImage: '/assets/pictures/self-intro/cover.jpg'
 ogImage:
   url: '/assets/pictures/self-intro/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+I was originally born in China and I moved to Orange County, California when I was 11 and called it home for the next 7 years. When I was in high school, I was playing badminton competitively. Because of that, I was able to visit a lot of places in the United States while also keeping a balance between badminton and academics. After high school, I decided to go for a change of scenary by moving to Tennessee and I am now a senior at Vanderbilt University, where I found passion in computer science.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Professional Life
 
-## Lorem Ipsum
+Growing up, I have always had a stem-oriented background while being a free spirit, open to pursuing anything that seemed interesting to me. In high school, I led a research project where my team analyzed 6 months’ worth of tweets to predict price moments of bitcoin using NLP and machine learning. I also shared my passion for STEM with other people through Sci-IY—a school-wide outreach program aimed to help second and third graders develop their interest in STEM. 
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Moving on to college, I wanted to leap out of my comfort zone and try out new things. I took advantage of my tech-oriented background during my time at the JLL Technologies apprenticeship, where I got a better understanding of how I can utilize my computer science skills in the real estate industry. I also tried out tech consulting, where I volunteered to be the client manager of my project team and helped our client develop a market entry strategy for the African blockchain market. With all of my efforts to try out new things, I wanted to eventually narrow my focus down to product management and software development. In the past summer, I worked as a full-stack software engineer and digital transformation strategist at Greenbrier Properties while developing cool projects with OpenAI's API. Currently, I am leading a project to develop an AI-powered video-editing tool for content creators.
